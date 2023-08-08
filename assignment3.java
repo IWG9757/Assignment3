@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class assignment3{
         private static final Scanner scanner = new Scanner (System.in);
 
